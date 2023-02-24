@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hcr
+ *
+ */
+module sample {
+}
